@@ -8,8 +8,8 @@ var dog , dogimg1,dogimg2;
 function preload()
 {
   //load images here
-  dogimg1 = loadImage("/images/dogimg.png")
-  dogimg2 = loadImage("/images/dogimg1.png")
+  dogimg1 = loadImage("images/dogimg.png")
+  dogimg2 = loadImage("images/dogimg1.png")
 }
 
 function setup() {
